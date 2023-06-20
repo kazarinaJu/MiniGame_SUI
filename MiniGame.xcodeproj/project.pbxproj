@@ -11,6 +11,7 @@
 		05770E3C2A41C81B001984D2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05770E3B2A41C81B001984D2 /* ContentView.swift */; };
 		05770E3E2A41C81C001984D2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 05770E3D2A41C81C001984D2 /* Assets.xcassets */; };
 		05770E412A41C81C001984D2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 05770E402A41C81C001984D2 /* Preview Assets.xcassets */; };
+		05770E482A41CC95001984D2 /* UISliderRepresentation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05770E472A41CC95001984D2 /* UISliderRepresentation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		05770E3B2A41C81B001984D2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		05770E3D2A41C81C001984D2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		05770E402A41C81C001984D2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		05770E472A41CC95001984D2 /* UISliderRepresentation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UISliderRepresentation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				05770E392A41C81B001984D2 /* MiniGameApp.swift */,
 				05770E3B2A41C81B001984D2 /* ContentView.swift */,
+				05770E472A41CC95001984D2 /* UISliderRepresentation.swift */,
 				05770E3D2A41C81C001984D2 /* Assets.xcassets */,
 				05770E3F2A41C81C001984D2 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				05770E482A41CC95001984D2 /* UISliderRepresentation.swift in Sources */,
 				05770E3C2A41C81B001984D2 /* ContentView.swift in Sources */,
 				05770E3A2A41C81B001984D2 /* MiniGameApp.swift in Sources */,
 			);
